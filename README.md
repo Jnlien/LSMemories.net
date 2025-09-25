@@ -1,6 +1,6 @@
 # LSMemories.net 
 
-![Téléchargements](https://img.shields.io/github/downloads/Jnlien/LSMemories.net/total?label=Downloads=github)
+![Téléchargements](https://img.shields.io/github/downloads/Jnlien/LSMemories.net/total?label=Downloads&logo=github)
 
 ## Présentation
 
